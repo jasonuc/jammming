@@ -1,5 +1,5 @@
 const clientId = '6bdd44a2c79e46b282d4d70542882689'
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "http://jammingbyjcu.surge.sh";
 let accessToken;
 
 
