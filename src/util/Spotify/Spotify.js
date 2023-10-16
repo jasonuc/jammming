@@ -1,4 +1,4 @@
-const clientId = '6bdd44a2c79e46b282d4d70542882689'
+const clientId = 'API KEY HERE!!!'
 const redirectUri = "http://jammingbyjcu.surge.sh";
 let accessToken;
 
