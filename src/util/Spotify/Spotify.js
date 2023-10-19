@@ -2,7 +2,6 @@ const clientId = process.env.REACT_APP_SPOTIFY_API_KEY; // I have done this for 
 const redirectUri = "http://jammming.jasonuc.com";
 let accessToken;
 
-
 const Spotify = {
     getAccessToken() {
         if (accessToken) {
