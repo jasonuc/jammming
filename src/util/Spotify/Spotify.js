@@ -1,5 +1,5 @@
-const clientId = 'API KEY HERE!!!'
-const redirectUri = "http://jammingbyjcu.surge.sh";
+const clientId = process.env.REACT_APP_SPOTIFY_API_KEY; // I have done this for the safety of my API key as it would be unwise for me to open it to the public
+const redirectUri = "http://jammming.jasonuc.com";
 let accessToken;
 
 
